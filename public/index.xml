@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 05 May 2025 02:10:28 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Markdown の書き方</title>
+      <link>http://localhost:1313/posts/markdown/</link>
+      <pubDate>Mon, 05 May 2025 02:10:28 +0900</pubDate>
+      <guid>http://localhost:1313/posts/markdown/</guid>
+      <description>&lt;h2 id=&#34;markdown-とは&#34;&gt;Markdown とは&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Markdown&lt;/strong&gt; は、可能な限り読みやすく書きやすいように設計されたマークアップ言語である。プレーンテキストのままでも可読性が高い。&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;[!NOTE]&lt;br&gt;&#xA;&lt;strong&gt;マークアップ言語&lt;/strong&gt;とは、文とその構造や表示形式を示した言語である。&lt;/p&gt;&#xA;&lt;p&gt;HTMLやXMLなどのマークアップ言語とは異なり、プレーンテキストでも可読性が高いものは&lt;strong&gt;軽量マークアップ言語&lt;/strong&gt;とも呼ばれる。&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;h2 id=&#34;markdown-の歴史&#34;&gt;Markdown の歴史&lt;/h2&gt;&#xA;&lt;p&gt;Markdown は John Gruber によって（Aaron Swartz の協力を得て）開発され、2004年にMarkdownをHTMLに変換するためのPerlスクリプト (Markdown.pl) がリリースされた。&#xA;&lt;a href=&#34;https://daringfireball.net/projects/markdown/&#34;&gt;https://daringfireball.net/projects/markdown/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Markdown の人気が高まるにつれて、追加機能が実装され、さまざまな方言ができた。&lt;/p&gt;&#xA;&lt;p&gt;そこで、Markdown の標準的で明確な構文仕様を作るため John MacFarlane, Martin Woodward, Jeff Atwood らによって CommonMark と呼ばれるプロジェクトが始まった。&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;[!NOTE]&#xA;当初は Standard Markdown という名前だったが、John Gruber に反対され、CommonMark になった。&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;現在は GitHub や Stack Overflow などの多くのサイトが CommonMark を採用している。&#xA;&lt;a href=&#34;https://commonmark.org/&#34;&gt;https://commonmark.org/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;GitHub では、CommonMark を拡張した GitHub Flavored Markdown (GFM) といくつかの独自の書き込み機能が組み合わされている。&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;&#xA;&lt;a href=&#34;https://github.github.com/gfm/&#34;&gt;https://github.github.com/gfm/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;markdown-の書き方&#34;&gt;Markdown の書き方&lt;/h2&gt;&#xA;&lt;p&gt;Markdown の基本的な書き方を説明する。&#xA;CommonMark に含まれない仕様は (extension) として示す。&lt;/p&gt;&#xA;&lt;h3 id=&#34;見出し-headings&#34;&gt;見出し (Headings)&lt;/h3&gt;&#xA;&lt;p&gt;行をハッシュ#とスペースで始めるとヘッダーになる。&#xA;#の数が多いほどヘッダーは小さくなる。&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;# Heading 1&#xA;## Heading 2&#xA;### Heading 3&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;階層構造が壊れるため表示結果は省略する&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
